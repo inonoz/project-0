@@ -1,24 +1,10 @@
-h1 {
-    background-color: blue ;
-    color: rgba(199, 190, 2);
-}
-div {
-    width: 100%;
-    max-width: 200px;
-    background-color: rgb(187, 177, 197);
-    font-weight: 600;
-    font-family: roboto;
-}
-h2 {
-    border: 1px solid lightcyan
-    
-}
-.red{
-    color: red;
-}
-.blue{
-    color: blue;
-}
-#title{
-    font-weight:bold;
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: 15px solid red;
+    padding: 15px 15px 15px 15px;
+    margin: 15px 15px 15px 15px;
+    box-sizing: border-box;
+
 }
